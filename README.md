@@ -1,6 +1,8 @@
-# Alt-school-project
+# Alt-school
 
-# Introduction
+#  Financial expenses Project
+
+## Introduction
 
 This project is designed to assess the understanding of Object-Oriented Programming (OOP) concepts in Python by implementing two classes: Expense and ExpenseDatabse. These classes are used to model and manage financial expenses effectively.
 
