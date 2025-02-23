@@ -91,12 +91,14 @@ to_dict(self): Converts all stored expenses into a list of dictionaries.
 I tested my code via two methods.
 The first method was creating a .ipynb file so as to the both the expense, expense database ad main.py codes to confirm the code is runing with no error. For the second method, i used 'python main.py' which I ran on the main.py file via vscode terminal.
 
+After confirming my code is running, i the commited my project to my github repository.
+
 
 ## Clone the Repository: 
 To clone my repository, I created a new one, made it public, enabled the readme, chose python at the gitignore and the chose MIT as license. I then right clicked to copy the repository link, opened my command prompt from  my local computer and cloned the repository using the code below.
 ```sh
-git clone https://github.com/Chinelonweke/Alt-school-project.git
+git clone https://github.com/Chinelonweke/Alt-school-project.git 
 
 
-After confirming my code is running, i the commited my project to my github repository.
+
 
