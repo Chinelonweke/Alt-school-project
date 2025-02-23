@@ -64,7 +64,9 @@ update(self, title=None, amount=None): Updates the title and/or amount, and refr
 
 to_dict(self): Returns a dictionary representation of the expense.
 
-## ExpenseDB Class
+NB: I used $ for amount spent
+
+### ExpenseDatabase Class
 
 This class manages a collection of expenses.
 
