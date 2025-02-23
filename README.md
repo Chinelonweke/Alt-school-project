@@ -95,7 +95,7 @@ to_dict(self): Converts all stored expenses into a list of dictionaries.
 I tested my code via two methods.
 The first method was creating a .ipynb file so as to the both the expense, expense database ad main.py codes to confirm the code is runing with no error. For the second method, i used 'python main.py' which I ran on the main.py file via vscode terminal.
 
-After confirming my code is running, i the commited my project to my github repository.
+After confirming my code is running, i then commited and synched my project to my github repository.
 
 
 ## Clone the Repository: 
